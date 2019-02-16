@@ -6,6 +6,7 @@ public class Algorithm {
 		
 		System.out.print("Hello world.");
 		System.out.print("Hello world.");
+		System.out.print("Hello world.");
 
 	}
 
